@@ -82,7 +82,6 @@ function gameover(){
     ctx.fillStyle = "#0095DD";
     ctx.fillText("Score: "+score, 120, 55);
     ctx.fillText("Press any key to continue",72,90);
-    var c=canvas.getContext("2d");
     canvas.addEventListener("click",reset);
 }
 window.resetvar=setInterval(draw,10);
