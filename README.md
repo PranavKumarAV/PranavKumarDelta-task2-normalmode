@@ -1,5 +1,7 @@
 # PranavKumarAV.github.io
 
+I have uploaded a video of my game in the name of "BallGame_NormalMode"
+
 Task 2 : ColorSwitch (NORMAL Mode)
 
 Code which I did for my college club induction: Task 2 : 
